@@ -1,2 +1,0 @@
-This is simple text file2
-file2 update new
